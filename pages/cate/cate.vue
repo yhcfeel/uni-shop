@@ -1,5 +1,5 @@
 <template>
-	<view>
+	<view >
 		<my-search @click.native="gotoSearch"></my-search>
 		<view class="scroll-view-container">
 			<!-- 左侧滑动区域 -->
